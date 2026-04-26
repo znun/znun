@@ -10,7 +10,7 @@
 
 * 📱 iOS Developer specializing in **UIKit & SwiftUI**
 * 🏢 Software Engineer @ Datasoft System Bangladesh Ltd.
-* 🎓 BSc in Software Engineering — Daffodil International University
+* 🎓 BSc in Developer Engineering — Daffodil International University
 * 🧠 Focused on **clean architecture, API integration, and performance**
 
 ---
