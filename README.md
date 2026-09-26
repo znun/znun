@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahmudul Hasan Zunnun
 
-### 📱 iOS Developer | Swift | UIKit | SwiftUI | MVVM
+### 📱 Software Developer — iOS | Swift | UIKit | SwiftUI
 
 🚀 I build clean, scalable, and user-focused iOS applications.
 
@@ -8,20 +8,23 @@
 
 ## 🧑‍💻 About Me
 
-* 📱 iOS Developer specializing in **UIKit & SwiftUI**
-* 🏢 Software Engineer @ Datasoft System Bangladesh Ltd.
+* 📱 Software Developer specializing in **iOS development with Swift**
+* 🏢 Software Developer @ Datasoft Systems Bangladesh Limited
 * 🎓 BSc in Software Engineering — Daffodil International University
-* 🧠 Interested in **clean architecture, API integration, and performance**
+* 🧠 Focused on **UIKit, SwiftUI, MVVM, API integration, and clean code**
 
 ---
 
 ## ⚙️ Tech Stack
 
 **Languages & Frameworks**
-Swift • UIKit • SwiftUI • Combine
+Swift • Objective-C • UIKit • SwiftUI • Combine
 
-**Architecture & Tools**
-MVVM • REST API • Firebase • Core Data
+**Architecture & Development**
+MVVM • MVC • REST API • Firebase • Core Data
+
+**Tools**
+Xcode • Git • GitHub • CocoaPods • Swift Package Manager
 
 ---
 
@@ -31,7 +34,7 @@ MVVM • REST API • Firebase • Core Data
 
 🔗 https://github.com/znun/Messenger
 
-A real-time iOS messaging app built with **UIKit and Firebase**, supporting authentication, user discovery, and one-to-one conversations.
+A real-time iOS messaging application built with **Swift and UIKit**, using Firebase for authentication and real-time communication.
 
 * 🔐 Firebase Authentication
 * 💬 Real-time messaging with Firestore
@@ -45,7 +48,7 @@ A real-time iOS messaging app built with **UIKit and Firebase**, supporting auth
 
 🔗 https://github.com/znun/CoinTrc
 
-A cryptocurrency tracking app that provides real-time coin information and lets users save their favorite cryptocurrencies.
+A cryptocurrency tracking app that provides real-time coin information and lets users manage their favorite cryptocurrencies.
 
 * 📊 Real-time cryptocurrency data
 * 🔎 Coin search & detailed information
@@ -59,10 +62,10 @@ A cryptocurrency tracking app that provides real-time coin information and lets 
 
 🔗 https://github.com/znun/SpeechParse
 
-A lightweight **SwiftUI** app that uses Natural Language Processing to analyze sentences and identify different parts of speech.
+A lightweight **SwiftUI** application that uses Natural Language Processing to analyze sentences and identify different parts of speech.
 
 * 🧠 NLP-based text analysis
-* ✍️ Sentence input & processing
+* ✍️ Sentence processing
 * 🔤 Detects nouns, verbs, adjectives, and more
 * 🎨 Simple SwiftUI interface
 
@@ -70,9 +73,9 @@ A lightweight **SwiftUI** app that uses Natural Language Processing to analyze s
 
 ## 📫 Contact
 
-* 📧 Email: [mahmudul.zunnun.com](mailto:mahmudul.zunnun@gmail.com)
+* 📧 Email: [mahmudul.zunnun@gmail.com](mailto:mahmudul.zunnun@gmail.com)
 * 💼 LinkedIn: https://bd.linkedin.com/in/mhzunnun
 
 ---
 
-⭐️ Focused on building real-world iOS applications with clean and maintainable code.
+⭐️ Focused on building real-world iOS applications with clean, maintainable, and scalable code.
